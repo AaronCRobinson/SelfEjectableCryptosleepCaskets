@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Buildings/ThingDef[defName = "CryptosleepCasket"]/building</xpath>
+    <value>
+      <isPlayerEjectable>true</isPlayerEjectable>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Buildings/ThingDef[defName = "AncientCryptosleepCasket"]/building</xpath>
+    <value>
+      <isPlayerEjectable>true</isPlayerEjectable>
+    </value>
+  </Operation>
+
+  <!--<Operation Class="PatchOperationAdd">
+    <xpath>/Buildings/ThingDef[defName = "AncientCryptosleepCasket"]/comps</xpath>
+    <value>
+      <li Class="SECC.CompProperties_PopsWhenFresh"/>
+    </value>
+  </Operation>-->
+
+</Patch>
