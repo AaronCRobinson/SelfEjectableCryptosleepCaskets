@@ -2,14 +2,14 @@
 <Patch>
 
   <Operation Class="PatchOperationAdd">
-    <xpath>/Buildings/ThingDef[defName = "CryptosleepCasket"]/building</xpath>
+    <xpath>/Defs/ThingDef[defName = "CryptosleepCasket"]/building</xpath>
     <value>
       <isPlayerEjectable>true</isPlayerEjectable>
     </value>
   </Operation>
-  
+
   <Operation Class="PatchOperationAdd">
-    <xpath>/Buildings/ThingDef[defName = "AncientCryptosleepCasket"]/building</xpath>
+    <xpath>/Defs/ThingDef[defName = "AncientCryptosleepCasket"]/building</xpath>
     <value>
       <isPlayerEjectable>true</isPlayerEjectable>
     </value>
