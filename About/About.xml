@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Self Ejectable Cryptosleep Caskets</name>
-	<author>Why_is_that</author>
-	<url></url>
-	<targetVersion>0.17.0</targetVersion>
-	<description>Allows pawns to self eject themselves from cryptosleeep caskets.</description>
+    <name>Self Ejectable Cryptosleep Caskets</name>
+    <author>Why_is_that</author>
+    <url></url>
+    <targetVersion>0.18.0</targetVersion>
+    <description>Allows pawns to self eject themselves from cryptosleeep caskets.</description>
 </ModMetaData>
