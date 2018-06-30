@@ -3,6 +3,6 @@
     <name>Self Ejectable Cryptosleep Caskets</name>
     <author>Why_is_that</author>
     <url></url>
-    <targetVersion>0.18.0</targetVersion>
+    <targetVersion>1.0.0</targetVersion>
     <description>Allows pawns to self eject themselves from cryptosleeep caskets.</description>
 </ModMetaData>
