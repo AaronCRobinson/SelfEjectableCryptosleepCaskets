@@ -9,4 +9,4 @@ Allows pawns to self eject themselves from cryptosleeep caskets. Can be added to
 - Ancient Cryptosleep Casket
 
 ## Notes:
-To use with an Ancident Crypto Casket, you need to clear the casket and then claim it.
+To use with an Ancient Crypto Casket, you need to clear the casket and then claim it.
